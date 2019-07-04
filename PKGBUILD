@@ -1,7 +1,7 @@
 # Script generated with import_catkin_packages.py.
 # For more information: https://github.com/bchretien/arch-ros-stacks.
 pkgdesc="ROS - The pluginlib package provides tools for writing and dynamically loading plugins using the ROS build infrastructure."
-url='http://www.ros.org/wiki/pluginlib'
+url='https://wiki.ros.org/pluginlib'
 
 pkgname='ros-melodic-pluginlib'
 pkgver='1.12.1'
